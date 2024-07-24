@@ -50,3 +50,33 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+**ASSIGNMENT**
+
+
+1.
+Downloaded windows 10 and loaded into the flash drive using Rufus boot software. Shut off my laptop then started clicking F12 to enter the boot screen. A windows installation screen appears, I chose the customized installation. I format the storage disk and install windows 10 from the bootable media. The installation completes and the laptop restarts. I continued to setup my windows.
+2. 
+Downloaded vs studio code from the official website. Run the exe file and install it. 
+3.
+Downloaded git cli. Run the exe file and install it
+Created a github account on the web.
+Initialize a git repository using the following commands:
+git init
+git add .
+git commit -m "Initial commit"
+4.
+ Open cmd. Run the following command: python –version. Python 3.12.2 is already installed.
+5.
+Open cmd. Ran the following command: pip –version. Pip 24.0 is already installed.
+6.
+Downloaded mysql installer. Run the exe file and install all the packages including mysql workbench, mysql shell etc.
+7.
+Downloaded docker from the official website. Run the exe file
+8.
+Downloaded plugins which include prettier, material icons which enhance the beauty of your code and appearance. I also downloaded python which supports python language on vs
+
+Github Repository: https://github.com/Prawww/AirBnB_clone_v2
+
+
+
